@@ -1,1 +1,0 @@
--- LocalScript: Kicks itself when running local player = game.Players.LocalPlayer player:Kick("Forsaken: We would like to inform you that you have been banned for 5000 years for Exploit.")
